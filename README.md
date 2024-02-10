@@ -1,5 +1,4 @@
 # Welcome to the SmartThings Public GitHub Repo
-
 This repo contains development code for SmartApps and Groovy DTHs (Dynamic Type Handlers).
 
 Here are some links to help you get started:
